@@ -5,4 +5,12 @@
 # How to use
 type in your terminal: 
 1.  `npm install` or `yarn install` or simplely `yarn`
-2. 
+2. `yarn start`, its go do open your browser 
+3. type on input search, name of your favorite filme
+
+
+# Rerênce
+Turorial:
+
+https://www.freecodecamp.org/news/how-to-build-a-movie-search-app-using-react-hooks-24eb72ddfaf7/
+
