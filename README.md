@@ -8,6 +8,8 @@ type in your terminal:
 2. `yarn start`, its go do open your browser 
 3. type on input search, name of your favorite filme
 
+# Warning
+this app search by default name filme english
 
 # Rerênce
 Turorial:
